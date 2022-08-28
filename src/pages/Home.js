@@ -1,13 +1,15 @@
 import React, { Component } from "react";
  
-class Products extends Component {
+class Home extends Component {
   render() {
     return (
       <div>
-        <img src="/images/Capture2.PNG" alt=""/>
+
+        <img src="/Capture.PNG" alt=""/>
+ 
       </div>
     );
   }
 }
  
-export default Products;
+export default Home;
